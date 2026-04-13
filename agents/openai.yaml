@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Browser Performance"
+  short_description: "Capture repeatable browser performance evidence"
+  default_prompt: "Use $agent-browser-performance to collect a repeatable performance baseline for a website."
